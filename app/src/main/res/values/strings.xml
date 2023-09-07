@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Student Grade Calculator</string>
+    <string name="calculate_grade">Calculate Grade</string>
+    <string name="enter_subject_1_marks">Enter Subject 1 Marks</string>
+    <string name="enter_subject_2_marks">Enter Subject 2 Marks</string>
+    <string name="enter_subject_3_marks">Enter Subject 3 Marks</string>
+    <string name="enter_subject_4_marks">Enter Subject 4 Marks</string>
+    <string name="enter_subject_5_marks">Enter Subject 5 Marks</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="total_marks">Total Marks:</string>
+    <string name="percentage">Percentage:</string>
+    <string name="grade">Grade:</string>
+    <string name="back">Back</string>
+</resources>
